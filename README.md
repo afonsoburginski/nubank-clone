@@ -1,7 +1,7 @@
 
 <h3 align = "center" fontSize="60px">
   Clone do aplicativo de banco <a href="https://www.nubank.com/">Nubank</a>
-  <img src="src/assets/nubank-screen.jpg>
+  <img src="src/assets/nubank-screen.jpg> alt="Logo" height=630>
 </h3>
 
 

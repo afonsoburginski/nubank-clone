@@ -1,6 +1,7 @@
 
 <h3 align = "center" fontSize="60px">
   Clone do aplicativo de banco <a href="https://www.nubank.com/">Nubank</a>
+  <img src="src/assets/nubank-screen.jpg>
 </h3>
 
 
@@ -32,12 +33,8 @@ Interface do Nubank reacriado [Nubank](https://www.nubank.com.br) com o objetivo
 Faça um clone desse repositório e acesse o diretório.
 
 ```bash
-$ git clone git@github.com:afonsoburginski/netflix-project.git && cd netflix-project
+$ git clone git@github.com:afonsoburginski/nubank-clone.git && cd nubank-clone
 ```
-
-Para ter acesso a API você precisará de uma chave, basta criar uma conta no TMDB para ter acesso, [link do cadastro](https://www.themoviedb.org/signup). Caminho da chave: **Perfil -> Configurações -> API -> Chave da API**
-
-Renomeie o arquivo `.env.example` para `.env` e cole o valor da sua chave no campo **REACT_APP_API_KEY**. Agora instale as dependências e execute o projeto:
 
 ```bash
 # Instalando as dependências

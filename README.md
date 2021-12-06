@@ -13,7 +13,7 @@
 -  Styled-Components
 ## 💻 Sobre o projeto
 
-Interface do Nubank reacriado [Nubank](https://www.nubank.com.br) com o objetivo de estudo e treinamento de habilidades como o React-Native e CSS3. O projeto foi desenvolvido em conjunto à aula da [Rocketseat](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=314s) como base de estudo
+Interface do [Nubank](https://www.nubank.com.br) com o objetivo de estudo e treinamento de habilidades como o React-Native e CSS3. O projeto foi desenvolvido em conjunto à aula da [Rocketseat](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=314s) como base de estudo
 
 ### Funcionalidades
 
